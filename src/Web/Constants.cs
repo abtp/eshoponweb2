@@ -1,4 +1,5 @@
-﻿namespace Microsoft.eShopWeb.Web;
+﻿// third change
+namespace Microsoft.eShopWeb.Web;
 
 public static class Constants
 {
