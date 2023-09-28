@@ -1,4 +1,4 @@
-﻿// testing my first PR
+﻿// Testing my first PR
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
